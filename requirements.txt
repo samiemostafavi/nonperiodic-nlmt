@@ -1,0 +1,4 @@
+numpy
+matplotlib
+posix_ipc
+gzip
